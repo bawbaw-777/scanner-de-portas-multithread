@@ -25,8 +25,8 @@ Este projeto foi desenvolvido para fins de estudo em redes e segurança da infor
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/port-scanner.git
-cd port-scanner
+git clone https://github.com/bawbaw-777/scanner-de-portas-multithread.git
+cd scanner-de-portas-multithread
 ```
 
 ### 2. Execute o scanner
@@ -68,4 +68,4 @@ Esta ferramenta foi desenvolvida exclusivamente para fins educacionais e testes 
 
 ## Autor
 
-Feito por BawBaw-777 — estudante de programação com foco em backend e segurança.
+Feito por [bawbaw-777](https://github.com/bawbaw-777)

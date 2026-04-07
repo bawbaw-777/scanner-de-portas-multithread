@@ -68,4 +68,4 @@ Esta ferramenta foi desenvolvida exclusivamente para fins educacionais e testes 
 
 ## Autor
 
-Feito por [Seu Nome](https://github.com/seu-usuario) — estudante de programação com foco em backend e segurança.
+Feito por BawBaw-777 — estudante de programação com foco em backend e segurança.

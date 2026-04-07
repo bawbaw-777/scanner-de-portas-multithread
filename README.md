@@ -32,13 +32,13 @@ cd scanner-de-portas-multithread
 ### 2. Execute o scanner
 
 ```bash
-python port_scanner.py --host <endereço> --start_port <porta_inicial> --end_port <porta_final>
+python lex.py --host <endereço> --start_port <porta_inicial> --end_port <porta_final>
 ```
 
 ### Exemplo
 
 ```bash
-python port_scanner.py --host 192.168.1.1 --start_port 1 --end_port 1024
+python lex.py --host 192.168.1.1 --start_port 1 --end_port 1024
 ```
 
 ### Saída esperada
